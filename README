@@ -1,0 +1,11 @@
+-------------------------------
+Bounce game
+-------------------------------
+Binary : 				the linux binary folder this folder is what you need 
+							to run the game on linux.
+Docs : 					the documentation of the game as a PDF and 
+							the source file of manual as DOC.
+Graphics Source : 	the SVG of game graphics.
+Source : 				the source code of the Game with a make file to compile
+			 				it you need allegro binary for your platform.
+							http://www.allegro.cc
